@@ -1,5 +1,0 @@
-In Python you can test1
-In Python you can test2
-In Python you can test3
-In Python you can test4
-In Python you can test5
