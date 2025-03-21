@@ -1,2 +1,0 @@
-# vmtest
-for test
