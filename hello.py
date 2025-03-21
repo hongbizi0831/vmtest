@@ -1,1 +1,1 @@
-print("hello")
+print("您好！欢迎使用程序。")
